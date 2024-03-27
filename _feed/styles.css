@@ -1,0 +1,70 @@
+body {
+  background-color: #131212;
+  border: lime;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
+}
+
+screen {
+  background-color: #131212; 
+  color: #464748;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
+}
+
+container {
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
+}
+
+connection {
+  color: #464748;
+  display: block;
+
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+description {
+  color: #464748;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+technical_description {
+  background-color: #363535; 
+  color: #F52424;
+
+  display: block;
+}
+
+laymans {
+  background-color: #363535; 
+  color: #25FC24;
+
+  display: block;
+}
+
+bot_name {
+  background-color: #252424;
+  color: #F32C2C;
+}
+
+bot_responce {
+  background-color: #252424;
+  color: #4647F8;
+
+  display: block;
+}
