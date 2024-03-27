@@ -1,3 +1,7 @@
+print "What is the process name? << "; pname = gets.chomp.strip # Process name
+print "What is the technical description? << "; tdesc = gets.chomp.strip # Technical description
+print "What is the laymans explanation? << "; lmans = gets.chomp.strip # Laymans explanation
+
 old_description = File.read("_feed/old_description.txt").to_s.strip
 
 new_description = "<description>
